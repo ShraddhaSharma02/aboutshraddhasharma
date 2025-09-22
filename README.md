@@ -49,7 +49,7 @@
 
 ## 🔧 Technical Skills  
 
-**Languages:** Java, JavaScript, HTML, CSS, C/C++, Python (NumPy, Pandas, Matplotlib, Seaborn)  
+**Languages:** Java, JavaScript, HTML, CSS, C, Python (NumPy, Pandas, Matplotlib, Seaborn)  
 **Frameworks & Libraries:** Bootstrap, Node.js  
 **Databases:** MongoDB, MySQL  
 **Web Development:**  
