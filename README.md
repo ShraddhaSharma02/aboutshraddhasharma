@@ -63,7 +63,7 @@
 ## 🛠️ Languages & Tools  
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,bootstrap,nodejs,react,mongodb,mysql,git,github,vscode,python,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,bootstrap,nodejs,react,mongodb,mysql,git,github,vscode,python,c" />
 </p>
 
 ---
